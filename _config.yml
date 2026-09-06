@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://NJUDeepEngine.github.io
-root: /LLM-Blog/
+url: https://gaomusiki.github.io
+root: /LLM-BLOG-2026autumn/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:NJUDeepEngine/LLM-Blog.git
+  repo: git@github.com:gaomusiki/LLM-BLOG-2026autumn.git
   branch: pages
 
 
