@@ -6,11 +6,11 @@ Welcome to our assignments! A collection of assignments on large language models
 # 📄 文章索引
 
 1. {% post_link A0-onboarding A0 Onboarding %}
-2. {% post_link A1-matmul A1 Matmul  %}
-3. {% post_link A2-norm-emb A2 RMSNorm and Embedding  %}
-4. {% post_link A3-modeling-mlp A3 Modeling MLP  %}
-5. {% post_link A4-attention-module A4 Attention Module  %}
-6. {% post_link A5-transformer-block A5 Transformer Block  %}   
+2. <a href="/LLM-BLOG-2026autumn/2025/06/14/A1-matmul/" aria-disabled="true" tabindex="-1" style="pointer-events: none; cursor: default;">A1 Matmul</a>
+3. <a href="/LLM-BLOG-2026autumn/2025/06/17/A2-norm-emb/" aria-disabled="true" tabindex="-1" style="pointer-events: none; cursor: default;">A2 RMSNorm and Embedding</a>
+4. <a href="/LLM-BLOG-2026autumn/2025/06/29/A3-modeling-mlp/" aria-disabled="true" tabindex="-1" style="pointer-events: none; cursor: default;">A3 Modeling MLP</a>
+5. <a href="/LLM-BLOG-2026autumn/2025/07/13/A4-attention-module/" aria-disabled="true" tabindex="-1" style="pointer-events: none; cursor: default;">A4 Attention Module</a>
+6. <a href="/LLM-BLOG-2026autumn/2025/08/26/A5-transformer-block/" aria-disabled="true" tabindex="-1" style="pointer-events: none; cursor: default;">A5 Transformer Block</a>
 
 
 
